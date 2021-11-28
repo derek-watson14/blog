@@ -331,3 +331,9 @@ a:focus {
     list-style-position: inside;
   }
 }
+
+/* POST CLASSES */
+
+.test {
+  color: crimson;
+}

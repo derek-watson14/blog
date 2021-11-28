@@ -1,15 +1,15 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Derek's CS Blog (Title Pending)`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Derek Watson`,
+      summary: `is a long time coding enthusiast and now computer science student at the
+      University of Colorado, Boulder. This blog is intended to document his learning, his job 
+      search and provide a look at the (hopefully) cool stuff he creates.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
-    social: {
-      twitter: `kylemathews`,
-    },
+    description: `Derek Watson's personal coding and computer science blog.`,
+    siteUrl: `https://derekwatson.dev`,
+    social: {},
   },
   plugins: [
     `gatsby-plugin-image`,
